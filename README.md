@@ -1,1 +1,1 @@
-# canoo-starwars-submission
+I have listed a few things as TODOs within comments. One additional thing that I would do, given more time, would be to work on styling a bit more. It is very basic and could be a lot better.
